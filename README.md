@@ -20,7 +20,7 @@ Usage](#llm-usage).
 
 # Reference
 This repository contains the reference, which is also [hosted
-here](https://github.io/podikoglou/lokpra).
+here](https://podikoglou.github.io/lokpra).
 
 # Maintenance
 I'm not planning on maintaining this.
